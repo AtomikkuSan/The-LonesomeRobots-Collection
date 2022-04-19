@@ -1,0 +1,3 @@
+[#{1:"000000";"f4f4f4";"f4f4f4"}]{2:;"   [@x8]  [@x16]  .";"   [@x8]  [@x16]  ."}{0:METH}[@x8]{0:METmm}[@x16]{0:METss} $&$ MNODETIMESECS CUSTOM_DYNA_POWER_DRAINED MNODEEXISTS
+[#{1:"000000";"f4f4f4";"f4f4f4"}]{2:;"   [@x8]  [@x16]  .";"   [@x8]  [@x16]  ."}{0:METH}[@x8]{0:METmm}[@x16]{0:METss} $&$ MNODEBURNTIMESECS CUSTOM_DYNA_POWER_DRAINED MNODEEXISTS
+[#{0:"000000";"f4f4f4";"f4f4f4"}]{0,6:"------";"------";"------"} $&$ CUSTOM_DYNA_POWER_DRAINED
